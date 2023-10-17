@@ -1,2 +1,2 @@
 # Hello-World
-my first commit lol
+My first commit lol.
